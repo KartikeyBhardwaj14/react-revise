@@ -1,0 +1,60 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#heading {
+  background-color: #5c5cce;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  display: flex;
+}
+
+h1 {
+  color: #fff;
+  font-size: 50px;
+}
+
+.profiles {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 3px;
+  margin-right: 30px;
+  display: flex;
+}
+
+img {
+  border-radius: 50%;
+  height: 200px;
+}
+
+.cards {
+  text-align: center;
+  border: 2px solid #000;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.but {
+  margin-top: 20px;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+  margin-left: 30px;
+  padding-left: 2vw;
+  font-size: 25px;
+}
+
+.search {
+  color: #fff;
+  background-color: #9696ee;
+  height: 30px;
+  margin-left: 1vw;
+}
+/*# sourceMappingURL=Army9.3a01df49.css.map */
